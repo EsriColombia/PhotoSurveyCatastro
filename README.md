@@ -15,7 +15,7 @@ Aplicación web para encuestas basadas en fotografías de predios.
   * Enterprise o workgroup geodatabase
 
 3. Servidores Web
-  * Microsft Internet Information Server 7 o superior - Apache HTTP Server.
+  * Microsft Internet Information Server 7 o superior.
 
 4. Compatibilidad con navegadores; la aplicación ha sido optimizada para visualizarse en computadoras de escritorio, tabletas, y telefónos inteligentes utilizando los siguientes navegadores:.
   * Microsoft Internet Explorer 10, 11
