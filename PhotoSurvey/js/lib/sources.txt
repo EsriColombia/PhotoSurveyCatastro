@@ -1,0 +1,6 @@
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js
+https://raw.githubusercontent.com/requirejs/i18n/latest/i18n.js
+https://github.com/maaaaark/bcSwipe
+http://code.jquery.com/jquery-2.1.4.min.js
+http://modernizr.com/download/#-load
+http://requirejs.org/docs/release/2.1.18/minified/require.js
